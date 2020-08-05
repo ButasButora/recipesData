@@ -2,6 +2,7 @@
     {
         "id": "1",
         "imgname": "10",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Walnut porridge",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
@@ -24,6 +25,7 @@
     {
         "id": "2",
         "imgname": "23",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Breakfast Bowl",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
@@ -46,6 +48,7 @@
     {
         "id": "3",
         "imgname": "34",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Banana Bread",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
@@ -68,6 +71,7 @@
     {
         "id": "4",
         "imgname": "43",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Coconut Pancakes",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
@@ -90,6 +94,7 @@
     {
         "id": "5",
         "imgname": "46",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Cocoa Walnut Porridge with Grated Apple",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
@@ -112,6 +117,7 @@
     {
         "id": "6",
         "imgname": "60",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Creamy Oatmeal with Banana, Peanut Butter and Chocolate",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
@@ -134,6 +140,7 @@
     {
         "id": "7",
         "imgname": "62",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg?raw=true",
         "name": "Omelette with Creamy Spinach and Avocado Slices",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "Ingredients for 2 omelettes",
