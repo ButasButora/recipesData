@@ -2,7 +2,7 @@
     {
         "id": "1",
         "imgname": "10",
-        "imgURL": "c",
+        "imgURL": "https://github.com/ButasButora/recipesData/blob/master/dinner.jpg",
         "name": "Walnut porridge",
         "alergen": ["Gluten Free","Sugar Free","Dairy Free"],
         "ingrNameOne": "",
