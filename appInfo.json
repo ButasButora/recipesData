@@ -1,13 +1,14 @@
 [
     {
         "id": 1,
+        "isShowed: false,
         "info1": "Toto je oznámení aplikace",
         "info2": "již brzy ",
         "info3": "Updated 21:20"
-    },
-    
+    }, 
     {
         "id": 2,
+        "isShowed: false,
         "info1": "Toto je oznámení aplikace",
         "info2": "již brzy ",
         "info3": "Updated 21:40"
