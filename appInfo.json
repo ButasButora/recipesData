@@ -12,6 +12,13 @@
         "info1": "Toto je oznámení aplikace",
         "info2": "již brzy ",
         "info3": "Updated 21:40"
+    },
+     {
+        "id": 3,
+        "isShowed": true,
+        "info1": "Toto je oznámení aplikace",
+        "info2": "Coming soon ",
+        "info3": "Updated 19:12"
         
     }
     
